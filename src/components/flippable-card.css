@@ -1,0 +1,6 @@
+.flippable-card-container {
+    margin: 10vh 2vw 0 2vw;
+    display: flex;
+    justify-content: space-between;
+    perspective: 1000px;
+}
