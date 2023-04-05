@@ -2,8 +2,15 @@
     text-align: center;
 }
 
+.header {
+    min-width: 300px;
+    max-width: 80vw;
+    margin: 10px 10vw;
+    color: blueviolet;
+}
+
 .cards {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: center;
 }

@@ -6,17 +6,15 @@ function App() {
   return (
     <div className="App">
 
-      <div className="header">
-        <h1>Találd meg a nyuszit!</h1>
-        <h2>Kattints az egyik képre, és ha nyuszi van alatta, hoz neked egy locsolóverset is!</h2>
+      <div className="header pa2 mt2 shadow-1 br3">
+        <h1 className=''>Kattints az egyik nyuszira és kapsz tőle egy locsolóverset!</h1>
+        <p className='f5'>by Károly Szabolcs © 2023</p>
       </div>
 
       <div className='cards'>
         <FlippableCard />
         <FlippableCard />
-        <FlippableCard />
       </div>
-
     </div>
   );
 }

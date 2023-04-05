@@ -5,7 +5,7 @@ import { useState } from 'react';
 
 function FlippableCard() {
     const [showFront, setShowFront] = useState(true);
-
+    
     return(
         <div className="flippable-card-container">
             <CSSTransition
@@ -13,9 +13,11 @@ function FlippableCard() {
                 timeout={500}
                 classNames='flip'
             >
-                <Card onClick={() => {
-                    setShowFront((value) => !value);
-                }}/>
+                <Card
+                    onClick={() => {
+                        setShowFront((value) => !value);
+                    }}
+                />
             </CSSTransition>
         </div>
     );
