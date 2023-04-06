@@ -24,7 +24,7 @@ const Card = ({ onClick }) => {
     return(
         <div className="card shadow-5" onClick={() => onClick()}>
             <div className="card-back f3 lh-copy pa3" key={activePoem}>
-                {poems[activePoem].poem}
+                <p dangerouslySetInnerHTML={{__html: poems[activePoem].poem}} />
             </div>
             <div className="card-front" key={activeBg} onClick={() => {randomPoems(); randomBackgrounds();}}>
                 {<img src={imgUrls[activeBg].imgUrl} alt="easter bunny"/>}

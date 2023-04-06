@@ -7,12 +7,11 @@ function App() {
     <div className="App">
 
       <div className="header pa2 mt2 shadow-1 br3">
-        <h1 className=''>Kattints az egyik nyuszira és kapsz tőle egy locsolóverset!</h1>
+        <h1>Kattints a nyuszira és kapsz tőle egy locsolóverset!</h1>
         <p className='f5'>by Károly Szabolcs © 2023</p>
       </div>
 
-      <div className='cards'>
-        <FlippableCard />
+      <div className='cards mb3'>
         <FlippableCard />
       </div>
     </div>

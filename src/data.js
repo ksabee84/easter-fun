@@ -1,226 +1,225 @@
 export const poems = [
     {
         id: 1,
-        poem: `Patak mellett mentem, azt súgta egy harcsa,
-        Van e háznál kislány, hogy az Isten tartsa.
-        Meglocsolnám rózsavízzel, hogyha előjönne,
+        poem: `Patak mellett mentem, azt súgta egy harcsa,<br />
+        Van e háznál kislány, hogy az Isten tartsa.<br />
+        Meglocsolnám rózsavízzel, hogyha előjönne,<br />
         Akkor az a kicsi lány jaj de nagyot nőne!`,
     },
     {
         id: 2,
-        poem: `Pajtában egy szürke ló,
-        Én vagyok a locsoló.
-        Íme itt a kölni,
+        poem: `Pajtában egy szürke ló,<br />
+        Én vagyok a locsoló.<br />
+        Íme itt a kölni,<br />
         Szabad-e locsolni?`,
     },
     {
        id: 3,
-       poem: `Zöld erdőben jártam
-       Kék ibolyát láttam.
-       El akart hervadni
+       poem: `Zöld erdőben jártam,<br />
+       Kék ibolyát láttam.<br />
+       El akart hervadni,<br />
        Szabad-e locsolni?`, 
     },
     {
         id: 4,
-        poem: `Ákom-bákom, berkenye,
-        Szagos húsvét reggele.
-        Leöntjük a virágot,
+        poem: `Ákom-bákom, berkenye,<br />
+        Szagos húsvét reggele.<br />
+        Leöntjük a virágot,<br />
         Visszük már a kalácsot.`,
     },
     {
         id: 5,
-        poem: `Én kis kertész legény vagyok,
-        Rózsavízzel locsolkodok.
-        Úgy locsolom a lányokat,
+        poem: `Én kis kertész legény vagyok,<br />
+        Rózsavízzel locsolkodok.<br />
+        Úgy locsolom a lányokat,<br />
         Mint kertész a virágokat.`,
     },
     {
         id: 6,
-        poem: `Mosolyog a napsugár,
-        mosolyog az ég is.
-        Locsolkodok, tojást kapok,
+        poem: `Mosolyog a napsugár,<br />
+        mosolyog az ég is.<br />
+        Locsolkodok, tojást kapok,<br />
         s mosolygok majd én is.`,
     },
     {
         id: 7,
-        poem: `E háznak van rózsabokra,
-        megöntözném, hogy virulna.
-        A kis kertész fáradsága,
+        poem: `E háznak van rózsabokra,<br />
+        megöntözném, hogy virulna.<br />
+        A kis kertész fáradsága,<br />
         egy pár tojás a váltsága.`,
     },
     {
         id: 8,
-        poem: `Zöld erdőben jártam,
-        Unicumot láttam.
-        Ha nem kapok belőle,
+        poem: `Zöld erdőben jártam,<br />
+        Unicumot láttam.<br />
+        Ha nem kapok belőle,<br />
         Nem locsolok jövőre.`,
     },
     {
         id: 9,
-        poem: `Én verset nem tudok,
-        azt mondjanak a kicsik,
-        én csak azért jöttem,
+        poem: `Én verset nem tudok,<br />
+        azt mondjanak a kicsik,<br />
+        én csak azért jöttem,<br />
         hogy igyak egy kicsit.`,
     },
     {
         id: 10,
-        poem: `Botom földig lekonyul,
-        Nem vagyok már mai nyúl.
-        Káposztám javát megettem,
+        poem: `Botom földig lekonyul,<br />
+        Nem vagyok már mai nyúl.<br />
+        Káposztám javát megettem,<br />
         Locsoljon más helyettem!`,
     },
     {
         id: 11,
-        poem: `Zöld erdőben jártam,
-        Lejártam a lábam,
-        Már mindenem dagad,
+        poem: `Zöld erdőben jártam,<br />
+        Lejártam a lábam,<br />
+        Már mindenem dagad,<br />
         Locsold meg most magad!`,
     },
     {
         id: 12,
-        poem: `Ifjú cybergyerek vagyok,
-        interneten locsolkodok.
-        Megadom a számlaszámom,
+        poem: `Ifjú cybergyerek vagyok,<br />
+        interneten locsolkodok.<br />
+        Megadom a számlaszámom,<br />
         utald a pénzt, kis virágom!`,
     },
     {
         id: 13,
-        poem: `Kinyílt az ibolya húsvét hajnalára,
-        Csepegtél, rózsavíz, erre a kislányra.
-        Rózsavíztől, majd meglátod, szép és ügyes leszel,
+        poem: `Kinyílt az ibolya húsvét hajnalára,<br />
+        Csepegtél, rózsavíz, erre a kislányra.<br />
+        Rózsavíztől, majd meglátod, szép és ügyes leszel,<br />
         Ugye, kislány, a zsebembe piros tojást teszel?`,
     },
     {
         id: 14,
-        poem: `E szép ajtón bekopogék,
-        Ha nem bánják, locsolkodnék.
-        Öntök asszonyt lányával,
-        Várok tojást párjával.
-        Ha pedig sajnáljátok,
-        Mindjárt porrá áztok,
-        Mert kölni helyett
+        poem: `E szép ajtón bekopogék,<br />
+        Ha nem bánják, locsolkodnék.<br />
+        Öntök asszonyt lányával,<br />
+        Várok tojást párjával.<br />
+        Ha pedig sajnáljátok,<br />
+        Mindjárt porrá áztok,<br />
+        Mert kölni helyett<br />
         Vizet öntök rátok!`,
     },
     {
         id: 15,
-        poem: `Gyertek elő szép leányok,
-        ibolya virágok!
-        Virágeső hullatozzon rátok.
-        Szemetek mosolyogjon,
-        orcátok viruljon,
-        piros tojás, hímes tojás
+        poem: `Gyertek elő szép leányok,<br />
+        ibolya virágok!<br />
+        Virágeső hullatozzon rátok.<br />
+        Szemetek mosolyogjon,<br />
+        orcátok viruljon,<br />
+        piros tojás, hímes tojás<br />
         a zsebembe hulljon!`,
     },
     {
         id: 16,
-        poem: `Itt a Húsvét, eljött végre,
-        a szép lányok örömére,
-        mert a lányok szép virágok,
-        Illatos víz illik rájok.
-        Kit húsvétkor nem locsolnak,
-        hervadt virág lesz már holnap.
-        Ne fuss el hát szép virágom,
+        poem: `Itt a Húsvét, eljött végre,<br />
+        a szép lányok örömére,<br />
+        mert a lányok szép virágok,<br />
+        Illatos víz illik rájok.<br />
+        Kit húsvétkor nem locsolnak,<br />
+        hervadt virág lesz már holnap.<br />
+        Ne fuss el hát szép virágom,<br />
         a locsolásért tojást várok!`,
     },
     {
         id: 17,
-        poem: `Tavaly húsvétkor
-        még nem volt kicsi székem,
-        Édesanyám tüzelte el,
-        az idei télen.
-        Egy év alatt nagyot nőttem,
-        kis székre sem állok,
-        innen lentről locsolgatok,
+        poem: `Tavaly húsvétkor<br />
+        még nem volt kicsi székem,<br />
+        Édesanyám tüzelte el,<br />
+        az idei télen.<br />
+        Egy év alatt nagyot nőttem,<br />
+        kis székre sem állok,<br />
+        innen lentről locsolgatok,<br />
         s csupa jót kívánok!`,
     },
     {
         id: 18,
-        poem: `Húsvét másodnapján az jutott eszembe,
-        Kölnisüvegemet veszem a kezembe,
-        Elindultam vele piros tojást szedni,
+        poem: `Húsvét másodnapján az jutott eszembe,<br />
+        Kölnisüvegemet veszem a kezembe,<br />
+        Elindultam vele piros tojást szedni,<br />
         Hogyha adtok, lányok, meg foglak öntözni.`,
     },
     {
         id: 19,
-        poem: `Én vagyok a török,
-        Locsolkodni jövök,
-        Ha nem kapok piros tojást,
+        poem: `Én vagyok a török,<br />
+        Locsolkodni jövök,<br />
+        Ha nem kapok piros tojást,<br />
         Mindent összetörök.`,
     },
     {
         id: 20,
-        poem: `Mi vagyunk a nyuszikák,
-        Rajtunk gyönyör uszik át,
-        Ma fog a húsvét lefolyni,
-        Ma fogunk, ma fogunk
+        poem: `Mi vagyunk a nyuszikák,<br />
+        Rajtunk gyönyör uszik át,<br />
+        Ma fog a húsvét lefolyni,<br />
+        Ma fogunk, ma fogunk<br />
         Piros tojásokat tojni.`,
     },
     {
         id: 21,
-        poem: `Napsütötte szép tájakon,
-        Jöttem végig az utakon.
-        Fölém hajolt sok kis virág,
-        Rózsavizük osztogatták.
-        Megöntözlek most itt véle,
+        poem: `Napsütötte szép tájakon,<br />
+        Jöttem végig az utakon.<br />
+        Fölém hajolt sok kis virág,<br />
+        Rózsavizük osztogatták.<br />
+        Megöntözlek most itt véle,<br />
         Piros tojást kérek érte.`,
     },
     {
         id: 22,
-        poem: `Tündérország gyöngyharmatja szálljon a fejedre,
-        Aki téged megöntözött, jusson az eszedbe!
+        poem: `Tündérország gyöngyharmatja szálljon a fejedre,<br />
+        Aki téged megöntözött, jusson az eszedbe!<br />
         Hol a tojás, piros tojás? Ide a zsebembe!`,
     },
     {
         id: 23,
-        poem: `Kék erdőben jártam,
-        Zöld ibolyát láttam,
-        Azt hiszed, hogy színvak vagyok?
+        poem: `Kék erdőben jártam,<br />
+        Zöld ibolyát láttam,<br />
+        Azt hiszed, hogy színvak vagyok?<br />
         Húzzak el vagy locsolhatok?`,
     },
     {
         id: 24,
-        poem: `Zúg a traktor, szánt az eke,
-        De büdös a trágya leve!
-        Azért kérdem idejébe,
+        poem: `Zúg a traktor, szánt az eke,<br />
+        De büdös a trágya leve!<br />
+        Azért kérdem idejébe,<br />
         Meglocsolhatlak-e véle?`,
     },
     {
         id: 25,
-        poem: `Világűrben jártam,
-        Űrrakétát láttam.
-        Föl akart robbanni.
+        poem: `Világűrben jártam,<br />
+        Űrrakétát láttam.<br />
+        Föl akart robbanni.<br />
         Szabad-e locsolni?`,
     },
     {
         id: 26,
-        poem: `Egy tök, két tök, öt tök,
+        poem: `Egy tök, két tök, öt tök,<br />
         Nem tökölök, öntök!`,
     },
     {
         id: 27,
-        poem: `Egy gondolat bánt engemet:
+        poem: `Egy gondolat bánt engemet:<br />
         Elfeledtem a versemet.`,
     },
     {
         id: 28,
-        poem: `Tele van a hajad kosszal,
+        poem: `Tele van a hajad kosszal,<br />
         meglocsollak Domestosszal!`,
     },
     {
         id: 29,
-        poem: `Én még kicsi vagyok,
-        Verset ezért nem is tudok,
-        De majd jönnek a nagyok,
+        poem: `Én még kicsi vagyok,<br />
+        Verset ezért nem is tudok,<br />
+        De majd jönnek a nagyok,<br />
         Aztán majd mondanak azok`,
     },
     {
         id: 30,
-        poem: `Ajtó mellett állok,
-        Piros tojást várok.
-        Ha nem adják párjával,
+        poem: `Ajtó mellett állok,<br />
+        Piros tojást várok.<br />
+        Ha nem adják párjával,<br />
         Elszökök a lányával!`,
     },
-
 ];
 
 export const imgUrls = [

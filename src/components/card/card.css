@@ -2,7 +2,7 @@
 
 .card {
     width: 400px;
-    height: 300px;
+    height: 400px;
     position: relative;
     transform-style: preserve-3d;
     transition: transform 1000ms;
@@ -13,7 +13,7 @@
 
 .card-front, .card-back {
     width: 400px;
-    height: 300px;
+    height: 400px;
     position: absolute;
     display: flex;
     flex-wrap: wrap;
@@ -31,10 +31,13 @@
 
 img {
     border-radius: 10px;
+    height: 400px;
 }
 
 .card-back {
     transform: rotateY(180deg);
     background-image: url("/public/img/easter_eggs.jpg");
     background-size: cover;
+    color: yellow;
+    text-shadow: 2px 2px black;
 }
